@@ -1,11 +1,3 @@
-  <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=Author&color=green&message=viewTech+ORG&logo=nim&logoColor=white&style=for-the-badge"><br>
-  <img src="https://img.shields.io/github/stars/ViewTechOrg/Trust-YourCam?logo=github&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=Version&color=green&message=0.0.3&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
-  <img src="https://img.shields.io/github/contributors/ViewTechOrg/Trust-YourCam?logo=apache&style=for-the-badge"><br>
-  <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat">
-  <img src="https://img.shields.io/github/forks/ViewTechOrg/Trust-YourCam?logo=github&style=flat"><br>
-<br><br>
 # DEFACE_JSO
 
 **DEFACE_JSO** adalah script berbasis bash untuk membantu dalam pembuatan script deface otomatis menggunakan format JSO (JavaScript Object). Dilengkapi dengan berbagai mode spam dan fleksibilitas dalam pemanggilan script.
