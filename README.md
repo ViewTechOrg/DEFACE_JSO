@@ -32,6 +32,11 @@ Pastikan kamu menggunakan Termux atau terminal Linux yang mendukung `bash`.
 pkg update
 pkg upgrade
 pkg install git curl -y
+pkg install curl jq git ossp-uuid -y
+pkg install ncurses-utils xz-utils nodejs -y
+pkg install bc boxes -y
+npm -g i bash-obfuscate
+pip install rich rich-cli
 cd $HOME
 git clone https://github.com/ViewTechOrg/DEFACE_JSO
 cd DEFACE_JSO
